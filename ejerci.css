@@ -1,0 +1,21 @@
+div{
+
+height: 200px;
+width: 200px;
+margin: 5px;
+}
+.red{background-color:red;
+	position: relative;
+	left: 40
+}
+.pink{background-color: pink;
+	position: relative;
+	left: 40px
+
+	
+}
+.blue{background-color: blue;
+	position: relative;
+	left: 40px
+	top: 80;
+}
